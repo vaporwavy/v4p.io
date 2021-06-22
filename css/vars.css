@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+:root{
+    /* Fonts */
+    --font-roboto: 'Roboto', sans-serif;
+    --font-noto-sans: 'Noto Sans', sans-serif;
+
+    /* Color */
+    --color-black: rgba(0, 0, 0, 0.9);
+    --color-white: rgba(255, 255, 255, 0.9);
+    --color-gray: rgba(159, 159, 159, 0.9);
+    --color-blue: rgb(72,169,233);
+    
+    /* Prevent font scaling in landscape */
+    -webkit-text-size-adjust: none; /*Chrome, Safari, newer versions of Opera*/
+    -moz-text-size-adjust: none; /*Firefox*/
+    -ms-text-size-adjust: none;  /*IE*/
+    -o-text-size-adjust: none; /*old versions of Opera*/
+  }
