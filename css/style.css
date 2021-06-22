@@ -24,7 +24,7 @@ p {
     font-size: 1em;
     letter-spacing: -0.03125em;
     color: var(--color-gray);
-    margin: 0.5em 0em 0em 0em;
+    margin: 0.5em 0em;
 }
 
 a {
